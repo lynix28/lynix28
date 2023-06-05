@@ -15,9 +15,13 @@ It's a personal space to put down my notes / interest and tell me about how far 
     </thead>
     <tbody>
         <tr>
-            <td rowspan=3>API Testing</td>
+            <td rowspan=4>API Testing</td>
             <td><a href="https://github.com/lynix28/api-mochai-example"><img src="https://img.shields.io/badge/HTTP-MochaJS%2CChaiJS%2CSupertest-9cf" alt="HTTP MochaJS"></a></td>
             <td><a href="https://circleci.com/gh/lynix28/api-mochai-example/tree/master"><img src="https://circleci.com/gh/lynix28/api-mochai-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/lynix28/api-postman-example"><img src="https://img.shields.io/badge/HTTP-Postman-9cf" alt="Postman K6"></a></td>
+            <td><a href="https://circleci.com/gh/lynix28/api-postman-example/tree/master"><img src="https://circleci.com/gh/lynix28/api-postman-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/lynix28/api-grpc-mochai-example"><img src="https://img.shields.io/badge/GRPC-MochaJS%2CChaiJS%2CgRPCJS-9cf" alt="GRPC MochaJS"></a></td>
