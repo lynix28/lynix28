@@ -32,9 +32,14 @@ It's a personal space to put down my notes / interest and tell me about how far 
             <td><a href="https://circleci.com/gh/lynix28/grpc-node-k6-example/tree/master"><img src="https://circleci.com/gh/lynix28/grpc-node-k6-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
-            <td rowspan=1>Web UI Testing</td>
+            <td rowspan=2>Web UI Testing</td>
             <td><a href="https://github.com/lynix28/web-robotframework-example"><img src="https://img.shields.io/badge/WEBUI-Robot%20Framework%20Browser-blueviolet" alt="RF Browser"></a></td>
             <td><a href="https://circleci.com/gh/lynix28/web-robotframework-example/tree/master"><img src="https://circleci.com/gh/lynix28/web-robotframework-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/lynix28/web-webdriverio-example"><img src="https://img.shields.io/badge/WEBUI-WebdriverIO-blueviolet" alt="WebdriverIO"></a></td>
+<!--             <td><a href="https://circleci.com/gh/lynix28/web-robotframework-example/tree/master"><img src="https://circleci.com/gh/lynix28/web-robotframework-example/tree/master.svg?style=shield" alt="CircleCI"></a></td> -->
+            <td><a href="#"><img src="https://img.shields.io/badge/Status-in%20progress-inactive" alt="CircleCI"></a></td>
         </tr>
         <tr>
             <td rowspan=2>Mobile UI Testing</td>
