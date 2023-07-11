@@ -9,7 +9,6 @@ It's a personal space to put down my notes / interest and tell me about how far 
     <thead>
         <tr>
             <th>Type</th>
-            <th>Language</th>
             <th>Tools</th>
             <th>CI Status</th>
         </tr>
@@ -17,62 +16,51 @@ It's a personal space to put down my notes / interest and tell me about how far 
     <tbody>
         <tr>
             <td rowspan=4>API Testing</td>
-            <td align='center'>JavaScript</td>
             <td><a href="https://github.com/lynix28/api-mochai-example"><img src="https://img.shields.io/badge/HTTP-MochaJS%2CChaiJS%2CSupertest-9cf" alt="HTTP MochaJS"></a></td>
             <td><a href="https://circleci.com/gh/lynix28/api-mochai-example/tree/master"><img src="https://circleci.com/gh/lynix28/api-mochai-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
-            <td align='center'>JavaScript</td>
             <td><a href="https://github.com/lynix28/api-postman-example"><img src="https://img.shields.io/badge/HTTP-Postman-9cf" alt="Postman K6"></a></td>
             <td><a href="https://circleci.com/gh/lynix28/api-postman-example/tree/master"><img src="https://circleci.com/gh/lynix28/api-postman-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
-            <td align='center'>JavaScript</td>
             <td><a href="https://github.com/lynix28/api-grpc-mochai-example"><img src="https://img.shields.io/badge/GRPC-MochaJS%2CChaiJS%2CgRPCJS-9cf" alt="GRPC MochaJS"></a></td>
             <td><a href="https://circleci.com/gh/lynix28/api-grpc-mochai-example/tree/master"><img src="https://circleci.com/gh/lynix28/api-grpc-mochai-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
-            <td align='center'>JavaScript</td>
             <td><a href="https://github.com/lynix28/grpc-node-k6-example"><img src="https://img.shields.io/badge/GRPC-K6-9cf" alt="GRPC K6"></a></td>
             <td><a href="https://circleci.com/gh/lynix28/grpc-node-k6-example/tree/master"><img src="https://circleci.com/gh/lynix28/grpc-node-k6-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
             <td rowspan=3>Web UI Testing</td>
-            <td align='center'>Robot Framework</td>
             <td><a href="https://github.com/lynix28/web-robotframework-example"><img src="https://img.shields.io/badge/WEBUI-Robot%20Framework%20Browser-blueviolet" alt="RF Browser"></a></td>
             <td><a href="https://circleci.com/gh/lynix28/web-robotframework-example/tree/master"><img src="https://circleci.com/gh/lynix28/web-robotframework-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
-            <td align='center'>JavaScript</td>
             <td><a href="https://github.com/lynix28/web-webdriverio-example"><img src="https://img.shields.io/badge/WEBUI-WebdriverIO-blueviolet" alt="WebdriverIO"></a></td>
             <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/web-webdriverio-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/web-webdriverio-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
 <!--             <td><a href="#"><img src="https://img.shields.io/badge/Status-in%20progress-inactive" alt="CircleCI"></a></td> -->
         </tr>
         <tr>
-            <td align='center'>Python</td>
             <td><a href="https://github.com/lynix28/web-playwright-example"><img src="https://img.shields.io/badge/WEBUI-Playwright-blueviolet" alt="Playwright"></a></td>
             <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/web-playwright-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/web-playwright-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
 <!--             <td><a href="#"><img src="https://img.shields.io/badge/Status-in%20progress-inactive" alt="CircleCI"></a></td> -->
         </tr>
         <tr>
             <td rowspan=2>Mobile UI Testing</td>
-            <td align='center'>JavaScript</td>
             <td><a href="https://github.com/lynix28/android-mobileui-appium-wdio-example"><img src="https://img.shields.io/badge/ANDROID-Appium%2CWebdriverIO%2CMochaJS-informational" alt="Appium Android"></a></td>
             <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/android-mobileui-appium-wdio-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/android-mobileui-appium-wdio-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
-            <td align='center'>JavaScript</td>
             <td><a href="https://github.com/lynix28/ios-mobileui-appium-wdio-example"><img src="https://img.shields.io/badge/IOS-Appium%2CWebdriverIO%2CMochaJS-informational" alt="Appium iOS"></a></td>
             <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/ios-mobileui-appium-wdio-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/ios-mobileui-appium-wdio-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
             <td rowspan=2>Performance Testing</td>
-            <td align='center'>JavaScript</td>
             <td><a href="https://github.com/lynix28/loadtest-k6-example"><img src="https://img.shields.io/badge/PERFORMANCE-K6-critical" alt="Performance K6"></a></td>
             <td><a href="https://circleci.com/gh/lynix28/loadtest-k6-example/tree/master"><img src="https://circleci.com/gh/lynix28/loadtest-k6-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
-            <td align='center'>-----</td>
             <td><a href="https://github.com/lynix28/performance-jmeter-example"><img src="https://img.shields.io/badge/PERFORMANCE-JMeter-critical" alt="Performance JMeter"></a></td>
             <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/performance-jmeter-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/performance-jmeter-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
