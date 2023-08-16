@@ -15,13 +15,23 @@ It's a personal space to put down my notes / interest and tell me about how far 
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4>API Testing</td>
-            <td><a href="https://github.com/lynix28/api-mochai-example"><img src="https://img.shields.io/badge/HTTP-MochaJS%2CChaiJS%2CSupertest-9cf" alt="HTTP MochaJS"></a></td>
+            <td rowspan=6>API Testing</td>
+            <td><a href="https://github.com/lynix28/api-mochai-example"><img src="https://img.shields.io/badge/HTTP-MochaJS-9cf" alt="HTTP MochaJS"></a></td>
             <td><a href="https://circleci.com/gh/lynix28/api-mochai-example/tree/master"><img src="https://circleci.com/gh/lynix28/api-mochai-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/lynix28/api-postman-example"><img src="https://img.shields.io/badge/HTTP-Postman-9cf" alt="Postman K6"></a></td>
+            <td><a href="https://github.com/lynix28/api-postman-example"><img src="https://img.shields.io/badge/HTTP-Postman-9cf" alt="Postman"></a></td>
             <td><a href="https://circleci.com/gh/lynix28/api-postman-example/tree/master"><img src="https://circleci.com/gh/lynix28/api-postman-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/lynix28/api-cucumberjs-example"><img src="https://img.shields.io/badge/HTTP-CucumberJS-9cf" alt="HTTP Cucumber"></a></td>
+<!--             <td><a href="https://circleci.com/gh/lynix28/api-postman-example/tree/master"><img src="https://circleci.com/gh/lynix28/api-postman-example/tree/master.svg?style=shield" alt="CircleCI"></a></td> -->
+            <td><a href="#"><img src="https://img.shields.io/badge/Status-in%20progress-inactive" alt="CircleCI"></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/lynix28/api-testng-example"><img src="https://img.shields.io/badge/HTTP-TestNG-9cf" alt="HTTP TestNG"></a></td>
+<!--             <td><a href="https://circleci.com/gh/lynix28/api-postman-example/tree/master"><img src="https://circleci.com/gh/lynix28/api-postman-example/tree/master.svg?style=shield" alt="CircleCI"></a></td> -->
+            <td><a href="#"><img src="https://img.shields.io/badge/Status-in%20progress-inactive" alt="CircleCI"></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/lynix28/api-grpc-mochai-example"><img src="https://img.shields.io/badge/GRPC-MochaJS%2CChaiJS%2CgRPCJS-9cf" alt="GRPC MochaJS"></a></td>
@@ -48,11 +58,11 @@ It's a personal space to put down my notes / interest and tell me about how far 
         </tr>
         <tr>
             <td rowspan=2>Mobile UI Testing</td>
-            <td><a href="https://github.com/lynix28/android-mobileui-appium-wdio-example"><img src="https://img.shields.io/badge/ANDROID-Appium%2CWebdriverIO%2CMochaJS-informational" alt="Appium Android"></a></td>
+            <td><a href="https://github.com/lynix28/android-mobileui-appium-wdio-example"><img src="https://img.shields.io/badge/ANDROID-WebdriverIO-informational" alt="Appium Android"></a></td>
             <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/android-mobileui-appium-wdio-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/android-mobileui-appium-wdio-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/lynix28/ios-mobileui-appium-wdio-example"><img src="https://img.shields.io/badge/IOS-Appium%2CWebdriverIO%2CMochaJS-informational" alt="Appium iOS"></a></td>
+            <td><a href="https://github.com/lynix28/ios-mobileui-appium-wdio-example"><img src="https://img.shields.io/badge/IOS-WebdriverIO-informational" alt="Appium iOS"></a></td>
             <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/ios-mobileui-appium-wdio-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/ios-mobileui-appium-wdio-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
