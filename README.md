@@ -57,13 +57,18 @@ It's a personal space to put down my notes / interest and tell me about how far 
 <!--             <td><a href="#"><img src="https://img.shields.io/badge/Status-in%20progress-inactive" alt="CircleCI"></a></td> -->
         </tr>
         <tr>
-            <td rowspan=2>Mobile UI Testing</td>
+            <td rowspan=3>Mobile UI Testing</td>
             <td><a href="https://github.com/lynix28/android-mobileui-appium-wdio-example"><img src="https://img.shields.io/badge/ANDROID-WebdriverIO-informational" alt="Appium Android"></a></td>
             <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/android-mobileui-appium-wdio-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/android-mobileui-appium-wdio-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/lynix28/ios-mobileui-appium-wdio-example"><img src="https://img.shields.io/badge/IOS-WebdriverIO-informational" alt="Appium iOS"></a></td>
             <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/ios-mobileui-appium-wdio-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/ios-mobileui-appium-wdio-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/lynix28/android-mobileui-katalon-example"><img src="https://img.shields.io/badge/ANDROID-Katalon-informational" alt="Appium Android"></a></td>
+<!--             <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/ios-mobileui-appium-wdio-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/ios-mobileui-appium-wdio-example/tree/master.svg?style=shield" alt="CircleCI"></a></td> -->
+            <td><a href="#"><img src="https://img.shields.io/badge/Status-in%20progress-inactive" alt="CircleCI"></a></td>
         </tr>
         <tr>
             <td rowspan=3>Performance Testing</td>
