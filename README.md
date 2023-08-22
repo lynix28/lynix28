@@ -43,30 +43,26 @@ It's a personal space to put down my notes / interest and tell me about how far 
         </tr>
         <tr>
             <td rowspan=3>Web UI Testing</td>
-            <td><a href="https://github.com/lynix28/web-robotframework-example"><img src="https://img.shields.io/badge/WEBUI-Robot%20Framework%20Browser-blueviolet" alt="RF Browser"></a></td>
+            <td><a href="https://github.com/lynix28/web-robotframework-example"><img src="https://img.shields.io/badge/WEB_UI-Robot%20Framework%20Browser-blueviolet" alt="RF Browser"></a></td>
             <td><a href="https://circleci.com/gh/lynix28/web-robotframework-example/tree/master"><img src="https://circleci.com/gh/lynix28/web-robotframework-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/lynix28/web-webdriverio-example"><img src="https://img.shields.io/badge/WEBUI-WebdriverIO-blueviolet" alt="WebdriverIO"></a></td>
+            <td><a href="https://github.com/lynix28/web-webdriverio-example"><img src="https://img.shields.io/badge/WEB_UI-WebdriverIO-blueviolet" alt="WebdriverIO"></a></td>
             <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/web-webdriverio-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/web-webdriverio-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
 <!--             <td><a href="#"><img src="https://img.shields.io/badge/Status-in%20progress-inactive" alt="CircleCI"></a></td> -->
         </tr>
         <tr>
-            <td><a href="https://github.com/lynix28/web-playwright-example"><img src="https://img.shields.io/badge/WEBUI-Playwright-blueviolet" alt="Playwright"></a></td>
+            <td><a href="https://github.com/lynix28/web-playwright-example"><img src="https://img.shields.io/badge/WEB_UI-Playwright-blueviolet" alt="Playwright"></a></td>
             <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/web-playwright-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/web-playwright-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
 <!--             <td><a href="#"><img src="https://img.shields.io/badge/Status-in%20progress-inactive" alt="CircleCI"></a></td> -->
         </tr>
         <tr>
-            <td rowspan=3>Mobile UI Testing</td>
-            <td><a href="https://github.com/lynix28/android-mobileui-appium-wdio-example"><img src="https://img.shields.io/badge/ANDROID-WebdriverIO-informational" alt="Appium Android"></a></td>
-            <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/android-mobileui-appium-wdio-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/android-mobileui-appium-wdio-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
+            <td rowspan=2>Mobile UI Testing</td>
+            <td><a href="https://github.com/lynix28/mobileui-appium-wdio-example"><img src="https://img.shields.io/badge/MOBILE_UI-WebdriverIO-informational" alt="WDIO"></a></td>
+            <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/mobileui-appium-wdio-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/mobileui-appium-wdio-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/lynix28/ios-mobileui-appium-wdio-example"><img src="https://img.shields.io/badge/IOS-WebdriverIO-informational" alt="Appium iOS"></a></td>
-            <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/ios-mobileui-appium-wdio-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/ios-mobileui-appium-wdio-example/tree/master.svg?style=shield" alt="CircleCI"></a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/lynix28/android-mobileui-katalon-example"><img src="https://img.shields.io/badge/ANDROID-Katalon-informational" alt="Appium Android"></a></td>
+            <td><a href="https://github.com/lynix28/android-mobileui-katalon-example"><img src="https://img.shields.io/badge/MOBILE_UI-Katalon-informational" alt="Katalon"></a></td>
 <!--             <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/ios-mobileui-appium-wdio-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/ios-mobileui-appium-wdio-example/tree/master.svg?style=shield" alt="CircleCI"></a></td> -->
             <td><a href="#"><img src="https://img.shields.io/badge/Status-in%20progress-inactive" alt="CircleCI"></a></td>
         </tr>
