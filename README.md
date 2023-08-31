@@ -25,8 +25,7 @@ It's a personal space to put down my notes / interest and tell me about how far 
         </tr>
         <tr>
             <td><a href="https://github.com/lynix28/api-cucumberjs-example"><img src="https://img.shields.io/badge/CucumberJS%20--%20Supertest-green?style=for-the-badge&logo=cucumber&logoColor=white&link=https://github.com/lynix28/api-cucumberjs-example" alt="CucumberJS - Supertest" /></a></td>
-<!--             <td><a href="https://circleci.com/gh/lynix28/api-postman-example/tree/master"><img src="https://circleci.com/gh/lynix28/api-postman-example/tree/master.svg?style=shield" alt="CircleCI"></a></td> -->
-            <td><img src="https://img.shields.io/badge/Not%20Ready-gray?style=flat&logo=circleci" alt="Not Ready" /></td>
+            <td><a href="https://gitlab.com/lynix28/api-cucumberjs-example/-/commits/master"><img alt="pipeline status" src="https://gitlab.com/lynix28/api-cucumberjs-example/badges/master/pipeline.svg" /></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/lynix28/api-testng-example"><img src="https://img.shields.io/badge/TestNG%20--%20RestAssured-white?style=for-the-badge&logoColor=white&link=https://github.com/lynix28/api-testng-example" alt="TestNG - RestAssured" /></a></td>
