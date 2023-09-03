@@ -62,8 +62,7 @@ It's a personal space to put down my notes / interest and tell me about how far 
         </tr>
          <tr>
             <td><a href="https://github.com/lynix28/web-selenium-example"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&link=https://github.com/lynix28/web-selenium-example" alt="Selenium" /></a></td>
-            <!-- <td><a href="https://dl.circleci.com/status-badge/redirect/gh/lynix28/web-playwright-example/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/lynix28/web-playwright-example/tree/master.svg?style=svg" alt="CircleCI"></a></td> -->
-            <td><img src="https://img.shields.io/badge/Not%20Ready-gray?style=flat&logo=circleci" alt="Not Ready" /></td>
+            <td><a href="https://gitlab.com/lynix28/web-selenium-example/-/pipelines"><img alt="pipeline status" src="https://gitlab.com/lynix28/web-selenium-example/badges/master/pipeline.svg" /></a></td>
         </tr>
         <tr>
             <td rowspan=2>Mobile UI Testing</td>
